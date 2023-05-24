@@ -2,7 +2,7 @@
 
 ### [Live Site](https://jsmasterypro.com)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png](https://i.hizliresim.com/h6cpne1.png)
+![Portfolio Website](https://i.hizliresim.com/h6cpne1.png)
 
 This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
 
